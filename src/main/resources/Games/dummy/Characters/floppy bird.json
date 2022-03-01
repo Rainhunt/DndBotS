@@ -1,0 +1,8 @@
+{
+  "characterKey": "floppy bird",
+  "FILE_PATH": "src/main/resources/Games/dummy/Characters/floppy bird.json",
+  "parentGameKey": "dummy",
+  "playersWhiteList": [
+    "279348282109722625"
+  ]
+}

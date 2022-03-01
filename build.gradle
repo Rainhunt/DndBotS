@@ -1,0 +1,17 @@
+plugins {
+    id 'application'
+    id 'com.github.johnrengelman.shadow' version '7.0.0'
+}
+
+mainClassName = 'me.rainh.DndBotS'
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'net.dv8tion', name: 'JDA', version: '5.0.0-alpha.4'
+    implementation('ch.qos.logback:logback-classic:1.2.10')
+    implementation ('com.google.code.gson:gson:2.9.0')
+}

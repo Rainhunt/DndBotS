@@ -1,0 +1,6 @@
+{
+  "characterKey": "violent",
+  "FILE_PATH": "src/main/resources/Games/default/Characters/violent.json",
+  "parentGameKey": "default",
+  "playersWhiteList": []
+}
